@@ -1,0 +1,2 @@
+# wine
+MLOps test project
